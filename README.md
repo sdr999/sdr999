@@ -1,5 +1,5 @@
-Hi, I'm @sdr999
 <p align = "left"><img src="https://komarev.com/ghpvc/?username=sdr999&style=flat-square&color=blue" alt=""/> </p>
+Hi, I'm @sdr999
 - 👀 I'm interested in programming.
 - 🌱 I'm currently learning c, c++, java, html, css
 - 💞️ I'm looking to collaborate on projects with like-minded individuals
