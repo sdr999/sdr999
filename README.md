@@ -1,4 +1,3 @@
-<p align = "left"><img src="https://komarev.com/ghpvc/?username=sdr999&style=flat-square&color=blue" alt=""/> </p>
 Hi, I'm @sdr999
 - 👀 I'm interested in programming.
 - 🌱 I'm currently learning c, c++, java, html, css
@@ -9,8 +8,8 @@ Hi, I'm @sdr999
 - 📫 How to reach me -send mail on rawat.saumyadeep.2017666@gmail.com
 
 
-<img align = "right" alt = "Coding" width = "300" src = "https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" height = "250">
 
+<p align = "left"><img src="https://komarev.com/ghpvc/?username=sdr999&style=flat-square&color=blue" alt=""/> </p>
 
 
 <!---
