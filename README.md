@@ -1,4 +1,5 @@
 Hi, I'm @sdr999
+<p align = "left"><img src="https://komarev.com/ghpvc/?username=sdr999&style=flat-square&color=blue" alt=""/> </p>
 - 👀 I'm interested in programming.
 - 🌱 I'm currently learning c, c++, java, html, css
 - 💞️ I'm looking to collaborate on projects with like-minded individuals
@@ -10,7 +11,7 @@ Hi, I'm @sdr999
 
 <img align = "right" alt = "Coding" width = "300" src = "https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" height = "250">
 
-<p align = "left"><img src="https://komarev.com/ghpvc/?username=sdr999&style=flat-square&color=blue" alt=""/> </p>
+
 
 <!---
 sdr999/sdr999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
