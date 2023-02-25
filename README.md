@@ -1,4 +1,10 @@
 Hi, I'm @sdr999
+<img align = "right" alt = "Coding" width = "300" src = "https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" height = "250">
+
+<p align = "left"><img src="https://komarev.com/ghpvc/?username=sdr999&style=flat-square&color=blue" alt=""/> </p>
+
+
+<h2 align ="left">About Me : </h2>
 - 👀 I'm interested in programming.
 - 🌱 I'm currently learning c, c++, java, html, css
 - 💞️ I'm looking to collaborate on projects with like-minded individuals
