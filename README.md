@@ -7,6 +7,11 @@ Hi, I'm @sdr999
 - 🤝 I'm looking forward to collaborating with others and exchanging ideas to create new ideas and projects. I'm also interested in exploring different technologies, such as machine learning, artificial intelligence, and blockchain.
 - 📫 How to reach me -send mail on rawat.saumyadeep.2017666@gmail.com
 
+
+<img align = "right" alt = "Coding" width = "300" src = "https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" height = "250">
+
+<p align = "left"><img src="https://komarev.com/ghpvc/?username=sdr999&style=flat-square&color=blue" alt=""/> </p>
+
 <!---
 sdr999/sdr999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
